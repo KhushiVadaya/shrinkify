@@ -81,6 +81,8 @@ End-to-end compression pipeline.
 Original image
 Compressed image using 16 colors
 Significant reduction in color space and size.
+<img width="950" height="323" alt="image" src="https://github.com/user-attachments/assets/eb85a21d-ebb9-47ed-bfc6-03bb6de235f3" />
+
 
 # 🏁 Results:
 Successfully compresses images while maintaining visual quality.
